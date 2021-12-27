@@ -15,3 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 This is the main page of ZingTek information technology Ltd.
+
+北京通州ZingTek信息科技有限公司
